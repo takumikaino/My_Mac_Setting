@@ -68,4 +68,4 @@ To make this setting, I refer to below pages.
 
 # references
 1. https://www.josean.com/posts/terminal-setup
-2. https://this.aereal.org/entry/2016/03/22/120000
+2. https://this.aereal.org/entry/2013/01/02/222304
