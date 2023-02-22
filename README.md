@@ -44,7 +44,8 @@ p10k configure
 4. Import the downloaded color profile (japanesque)
 5. Select the color profile (japanesque)
 You can download japanesque here:
-https://github.com/aereal/vim-colors-japanesque
+https://github.com/aereal/dotfiles/tree/main/colors/Japanesque
+
 
 ## Install ZSH Plugins
 Install zsh-autosuggestions:
